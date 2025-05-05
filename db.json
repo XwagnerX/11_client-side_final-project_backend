@@ -1,14 +1,14 @@
 {
-    "tasks": [
+    "skibidisigma": [
       {
         "id": 1,
-        "title": "Study json-server",
-        "completed": false
+        "sigmaboy": "SkibidiToilet",
+        "alive": true
       },
       {
         "id": 2,
-        "title": "Complete the client-side project",
-        "completed": true
+        "sigmaboy": "SikibidiLavabo",
+        "alive": false
       }
     ]
   }
